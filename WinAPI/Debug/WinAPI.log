@@ -1,0 +1,7 @@
+﻿  Main_1.cpp
+  MLine.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(173): fatal error C1189: #error:  "No Target Architecture"
+  MPoint.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(173): fatal error C1189: #error:  "No Target Architecture"
+  WorldTransform.cpp
+  Создание кода...
